@@ -45,7 +45,7 @@
 
 1.  สร้างคลาส `Honda` ที่สืบทอดจากคลาส `Car` และ ที่มีคุณสมบัติ (attributes) ชื่อว่า `color`
     
-2.  Override เมธอด `‘run()` ในคลาส `Honda` ให้แสดงความเร็วในขับ 120 kmph
+2.  Override เมธอด `run()` ในคลาส `Honda` ให้แสดงความเร็วในขับ 120 kmph
     
 3.  Override `displayCarInfo()` ในคลาส `Honda` ที่พิมพ์ค่าของ `brand`, `model`, `color`, `owner`, และ `engine` โดยจัดรูปแบบการแสดงผลที่เข้าใจง่าย
 
